@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Eico)(type Legacy)(uri ${KIPRJMOD}/Eico.lib)(options "")(descr ""))
+)
